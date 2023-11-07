@@ -1,5 +1,3 @@
-# hck4-guía
-
 ## Paso 1: Clonar el Repositorio
 
 1. Abre tu terminal o línea de comandos.
